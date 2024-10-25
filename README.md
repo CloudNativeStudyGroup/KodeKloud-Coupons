@@ -6,7 +6,7 @@ KodeKloud is a leading DevOps course provider and helps students learn trending 
 
 This can be applied on top of any existing promotional campaigns by KodeKloud!
 
-Follow these steps to get 20% off
+Follow these steps to get additional 20% off
 
 #### Steps to redeem:
 - [x] Visit [https://kk.kubeflex.io](https://kk.kubeflex.io)
