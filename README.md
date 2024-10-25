@@ -19,3 +19,7 @@ Follow these steps to get additional 20% off
 
 1. [Linux Foundation coupons](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons)
 2. [Free courses where you can earn free Credly digital badges](https://github.com/CloudNativeStudyGroup/Free-Credly-Badges)
+
+## Join our community
+
+Join our [community](https://www.linkedin.com/groups/13092099/) to learn together!
