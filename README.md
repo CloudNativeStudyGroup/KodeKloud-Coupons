@@ -10,8 +10,7 @@ Follow these steps to get additional 20% off
 
 #### Steps to redeem:
 - [x] Visit [https://kk.kubeflex.io](https://kk.kubeflex.io)
-- [x] Locate the certification/training you wish to purchase
-- [x] Apply the coupon **COUPONZANIA**
+- [x] Apply the coupon **COUPONZANIA** at checkout
 
 
 ---
