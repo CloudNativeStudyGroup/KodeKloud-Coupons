@@ -1,4 +1,4 @@
-# KodeKloud Coupons - As of October 2024
+# KodeKloud Coupons - As of November 2024
 
 KodeKloud is a leading DevOps course provider and helps students learn trending technologies they need to thrive in their career.
 
